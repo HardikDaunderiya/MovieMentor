@@ -2,7 +2,9 @@
     - create-react-app
     - Tailwind Css config
     - Header
-    - 
+    - login
+    - sign up
+    
 
 
 # Features
