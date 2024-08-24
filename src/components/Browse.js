@@ -1,12 +1,18 @@
 import Header from "./Header";
+import useNowMovie from "../Hooks/useNowMovie";
+import MainContainer from "./MainContainer"
+import SecondaryContainer from "./SecondaryContainer";
 
 
 const Browse=()=>{
 
+    useNowMovie();
+
     return (
-        <div>
+        <div >
             <Header/>
-            Browse
+            <MainContainer/>
+            <SecondaryContainer/>
         </div>
     )
 }
