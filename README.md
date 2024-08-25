@@ -30,6 +30,10 @@
     - TMDB Image CDN url
     - Made Browser page amazing
     - MAde custom Hooks like usePopularmovie etc..
+    - GPT Search Page
+    - GPT SearchBar
+    - Multi Lingual Page
+    - 
 
     
     
